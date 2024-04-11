@@ -1,5 +1,9 @@
-# MLWorkshop
-# Project: Image-to-Audio with Gemini and ElevenLabs
+# MLWorkshop & Student AI
+## Project: Student AI (RAG Pipeline)
+
+--- 
+
+## Project: Image-to-Audio with Gemini and ElevenLabs
 
 This project demonstrates how to capture an image using your webcam, convert it to text using the Gemini API, and generate audio from the text using ElevenLabs.
 
